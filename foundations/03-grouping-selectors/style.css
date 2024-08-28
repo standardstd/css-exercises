@@ -1,0 +1,14 @@
+.gauche, .droite {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.gauche {
+    background-color: black;
+    color: white;
+}
+
+.droite {
+    background-color: yellow;
+    color: black;
+}
